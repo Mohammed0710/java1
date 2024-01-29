@@ -1,0 +1,29 @@
+header{
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+    padding: 20px 10px ;
+
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    font-family: fantasy;
+    padding: 2px;
+    margin: auto;
+    
+}
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    font-size: small;
+    
+}
+.body1{
+    z-index: -1;
+    padding: 10px 10px 10px 20px;
+    opacity: 50%;
+    justify-content: space-between;
+    display: flex;
+    width: 1600px;
+}
